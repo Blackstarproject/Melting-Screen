@@ -1,0 +1,14 @@
+C:\Users\rytho\source\repos\MeltingScreen\MeltingScreen\bin\Debug\net8.0\MeltingScreen.exe
+C:\Users\rytho\source\repos\MeltingScreen\MeltingScreen\bin\Debug\net8.0\MeltingScreen.deps.json
+C:\Users\rytho\source\repos\MeltingScreen\MeltingScreen\bin\Debug\net8.0\MeltingScreen.runtimeconfig.json
+C:\Users\rytho\source\repos\MeltingScreen\MeltingScreen\bin\Debug\net8.0\MeltingScreen.dll
+C:\Users\rytho\source\repos\MeltingScreen\MeltingScreen\bin\Debug\net8.0\MeltingScreen.pdb
+C:\Users\rytho\source\repos\MeltingScreen\MeltingScreen\obj\Debug\net8.0\MeltingScreen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rytho\source\repos\MeltingScreen\MeltingScreen\obj\Debug\net8.0\MeltingScreen.AssemblyInfoInputs.cache
+C:\Users\rytho\source\repos\MeltingScreen\MeltingScreen\obj\Debug\net8.0\MeltingScreen.AssemblyInfo.cs
+C:\Users\rytho\source\repos\MeltingScreen\MeltingScreen\obj\Debug\net8.0\MeltingScreen.csproj.CoreCompileInputs.cache
+C:\Users\rytho\source\repos\MeltingScreen\MeltingScreen\obj\Debug\net8.0\MeltingScreen.dll
+C:\Users\rytho\source\repos\MeltingScreen\MeltingScreen\obj\Debug\net8.0\refint\MeltingScreen.dll
+C:\Users\rytho\source\repos\MeltingScreen\MeltingScreen\obj\Debug\net8.0\MeltingScreen.pdb
+C:\Users\rytho\source\repos\MeltingScreen\MeltingScreen\obj\Debug\net8.0\MeltingScreen.genruntimeconfig.cache
+C:\Users\rytho\source\repos\MeltingScreen\MeltingScreen\obj\Debug\net8.0\ref\MeltingScreen.dll
